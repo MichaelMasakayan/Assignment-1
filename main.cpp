@@ -4,7 +4,6 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include "AcceptingFile.h"
 using namespace std;
 void makeNewFile()
 {
